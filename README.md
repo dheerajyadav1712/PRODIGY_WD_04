@@ -131,7 +131,7 @@ This portfolio is hosted using **Netlify**.
 
 ---
 
-## 🌟 **Show Your Support!**  
+## 🌟 **-show-your-support**  
 If you love this project, please **leave a star ⭐** and share it!  
 💬 Your feedback is always welcome!  
 
